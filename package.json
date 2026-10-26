@@ -1,0 +1,12 @@
+{
+  "name": "desktop-agenda",
+  "version": "0.4.0",
+  "private": true,
+  "description": "Obsidian Windows bottom-layer agenda with Markdown task scheduling",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/window-state.test.cjs",
+    "build:native": "pwsh -NoProfile -File ./build-native.ps1",
+    "package": "pwsh -NoProfile -File ./package-release.ps1"
+  }
+}

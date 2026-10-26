@@ -1,0 +1,10 @@
+{
+  "id": "desktop-agenda",
+  "name": "Desktop Agenda",
+  "version": "0.4.0",
+  "minAppVersion": "1.6.0",
+  "description": "A translucent desktop agenda with Markdown tasks, overdue highlighting and rescheduling.",
+  "author": "Baishui23",
+  "authorUrl": "https://github.com/Baishui23",
+  "isDesktopOnly": true
+}

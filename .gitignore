@@ -1,0 +1,7 @@
+node_modules/
+data.json
+verification/
+desktop-host.exe
+desktop-host.ps1
+native-result-*.json
+dist/
